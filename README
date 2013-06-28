@@ -1,1 +1,7 @@
-This is the README file for your awesome Koding App!
+This Koding (https://koding.com) App will install proftpd on your VM
+You can then connect to it using:
+Servername: username.kd.io
+Username: ftpuser@username.kd.io
+Password: Your choosing
+
+Enjoy!
