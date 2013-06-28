@@ -1,0 +1,39 @@
+{
+  "devMode": true,
+  "authorNick": "blum",
+  "multiple": false,
+  "background": false,
+  "hiddenHandle": false,
+  "forceUpdate": false,
+  "openWith": "lastActive",
+  "behavior": "application",
+  "version": "0.1",
+  "name": "FTPServer",
+  "identifier": "com.koding.apps.ftpserver",
+  "path": "~/Applications/FTPServer.kdapp",
+  "homepage": "blum.kd.io/ftpserver",
+  "author": "Chris Nelson Blum",
+  "repository": "git://github.com/blum/ftpserver.kdapp.git",
+  "description": "FTPServer : a Koding application which will install and help setting up a FTP server for your VM",
+  "category": "web-app",
+  "source": {
+    "blocks": {
+      "app": {
+        "files": [
+          "./index.coffee"
+        ]
+      }
+    },
+    "stylesheets": [
+      "./resources/style.css"
+    ]
+  },
+  "options": {
+    "type": "tab"
+  },
+  "icns": {
+    "128": "./resources/icon.128.png"
+  },
+  "menu": [],
+  "fileTypes": []
+}

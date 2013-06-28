@@ -1,0 +1,4 @@
+2013-06-27 Chris Nelson Blum <@blum>
+
+   * FTPServer (index.coffee): Application created.
+   * You can install proftpd and setup your first user - only one user with a fixed uid / name is allowed currently and you can't change the password
